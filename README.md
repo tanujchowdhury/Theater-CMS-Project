@@ -1,7 +1,7 @@
 # Theater-CMS Project
 
 ## Introduction
-During my last two weeks at the Tech Academy, I was given the opportunity to work with a team on a full scale MVC web application in C#. The app was designed for a theater company to manage the various business functions such as productions, blogs, and rentals. My role was to create the about page for the website and handle the cast members in the 'productions' area. Along the way, I fixed bugs, refactored code, and added requested features. I also had an opportunity to work with a peer to fix issues with the database. During this live project I learned a lot of tricks in CSS, how to store pictures in a database and render them on an HTML page, and developed a search feature that dynamically displays the results.
+During my last two weeks at the Tech Academy, I was given the opportunity to work with a team on a full scale MVC web application in C#. The app was designed for a theater company to manage the various business functions such as productions, blogs, and rentals. My role was to create the [about page](#About-Page) for the website and handle the cast members in the 'productions' area. Along the way, I fixed bugs, refactored code, and added requested features. I also had an opportunity to work with a peer to fix issues with the database. During this live project I learned a lot of tricks in CSS, how to store [pictures](#Photo-Storage-and-Retrieval) in a database and render them on an HTML page, and developed a [search](#Search-Cast-Members-by-Production) feature that dynamically displays the results.
 
 Below are the major stories I worked on. The About page story was front-end, while the photos and search were mainly back-end.
 
