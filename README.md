@@ -6,9 +6,9 @@ During my last two weeks at the Tech Academy, I was given the opportunity to wor
 Below are the major stories I worked on. The About page story was front-end, while the photos and search were mainly back-end.
 
 ## Stories
-* About Page
-* Photo Storage and Retrieval
-* Search Cast Members by Production
+* [About Page](#About-Page)
+* [Photo Storage and Retrieval](#Photo-Storage-and-Retrieval)
+* [Search Cast Members by Production](#Search-Cast-Members-by-Production)
 
 ### About Page
 I was given a mock-up from a UI/UX student of webpage to replicate. Using CSS, I was able to make an exact replica of the mock-up. The two things I am proudest of were making the stylized corners of the sections and having the pictures on the screen look good in various window sizes. 
@@ -205,3 +205,5 @@ else
     }
 }
 ```
+
+*[Jump to Top](#Theater-CMS-Project)*
